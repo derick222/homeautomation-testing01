@@ -1,0 +1,3 @@
+export const SERVER_URL = "xxxxxxxxxxxxxxxxxxxxxxxxxxx";
+export const ACCESS_TOKEN =
+  "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIzODM1NzdhYzlhNGQ0YWRlOThjNzZmZTQzYzdhNjM2NCIsImlhdCI6MTU5MTM2OTc4MSwiZXhwIjoxOTA2NzI5NzgxfQ.YiC9UIm3sjlhrulVM4vGKYoJlFz8Fu2mjAJjbpK4Fa0";
